@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="sec-important-dates">
+  <title>Important Dates</title>
+
+  <p>
+    <dl width="wide">
+    <li>
+      <title>Weekly Module</title>
+
+      <p> Mostly Due Wednesday  </p>
+    </li>
+    <li><title> Weekly Homework</title>
+      <p> Mostly Due Saturday   </p>
+    </li>
+    <li> <title>Bi-Weekly Quiz</title>
+      <p>Mostly Due on every other Monday   </p> </li>
+    <li>
+      <title>Exam 1</title>
+
+      <p>
+        February 17
+      </p>
+    </li>
+
+    <li>
+      <title>Exam 2</title>
+
+      <p>
+        March 24
+      </p>
+    </li>
+
+    <li>
+      <title>Exam 3</title>
+
+      <p>
+        April 21
+      </p>
+    </li>
+        <li>
+      <title>Final Exam </title>
+
+      <p> <ul> <li> <p> Section 001: May 5, 10:20 AM- 12:20 PMM </p></li>
+        <li> <p> Section 002: May 7, 12:40 PM- 2:40 PM    </p>   </li>   </ul>
+        
+      </p>
+    </li>
+    </dl>
+  </p>
+</subsection>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="sec-schedule">
+    <title>Tentative Schedule</title>
+    <tabular>
+        <row> 
+            <cell>Week 1-Week 3</cell><cell>Graphs, Equations and Inequalities</cell>
+        </row>
+        <row>
+            <cell>Week 4- Week 6</cell><cell>Functions</cell>
+        </row>
+        <row>
+            <cell>Week 7- Week 9</cell><cell>Polynomial and Rational Functions</cell>
+        </row>
+        <row>
+            <cell>Week 10-Week 12</cell><cell>Exponential and Logarithmic Functions</cell>
+        </row>
+        <row>
+            <cell>Week 13- Week 14</cell><cell>Basic Trigonometry</cell>
+        </row>
+    </tabular>
+    
+
+  
+</subsection>

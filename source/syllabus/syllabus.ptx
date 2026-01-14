@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <title>Syllabus</title>
+
+  <introduction>
+    <p>
+      Instructors reserve the right to make changes to this syllabus as needed.
+      Only work assigned by and submitted to the instructor of record will count 
+      toward the final grade in this course.
+
+    </p>
+  </introduction>
+  <!-- Include chapters -->
+  <subsection xml:id="sec-course-info">
+    <title>Course Information</title>
+    <p>
+      <dl>
+      <li>
+        <title>Instructor</title>
+        <p>  Yuju Kuo     </p> 
+      </li>
+      <li>         <title>Office </title>
+
+        <p>      STRGT 314     </p>    
+      </li>
+      <li>          <title>Email </title>       <p>
+          <url href="mailto:yjkuo@iup.edu">yjkuo@iup.edu</url>.
+        </p>
+      </li>
+      <li>
+        <title>Office Hours</title>
+
+        <p> Monday 12:30 PM - 1:30 PM </p>
+        <p> Tuesday 1:00 PM - 2:00 PM, 5:00 PM - 6:00 PM </p>
+        <p> Wednesday 12:30 PM - 2:30 PM </p>
+        <p> Thursday 1:00 PM - 2:00 PM (via Zoom) </p>
+
+        <p>
+          <alert>Important</alert>: I <em>want</em> to see you in office hours,
+           and will happily make appointments with you outside of the regular hours.  
+           I am avilable by email and will respond within 24 hours, usually much sooner, during the weekdays. 
+           You can also make appointments through  <url href="https://calendly.com/yjkuo/"/>
+        </p>
+      </li>
+
+      <li>
+        <title>Class meets</title>
+
+        <p> Section 001 
+          <ul>
+            <li> <p>Tuesday 11:10 AM-12:25 PM, STABL 102B </p>       </li>
+            <li> <p>Thursday 11:10 AM-12:25 PM, STRGT 229  </p>    </li>
+          </ul> </p>
+        <p> Section 002 
+          <ul>
+            <li> <p>Tuesday 2:20 PM-3:35 PM, STABL 102B </p>     </li>
+            <li>  <p>Thursday 2:20PM-3:35 PM, STRGT 229</p>    </li>
+          </ul>
+        </p>
+      
+      </li>
+
+      <li>
+        <title>Course Description</title>
+
+        <p>
+          Analyzes and interprets numerical, graphical, and algebraic representations 
+          to model complex situations using mathematical structures and increase problem-solving skills. 
+          Focuses on polynomial, exponential and logarithmic functions, and basic right triangle trigonometry.
+        </p>
+      </li>
+
+      <li>
+        <title>Prerequisite</title>
+
+        <p>
+          MATH 100 or appropriate placement test score or permission of the MACS chairperson. Note: May not 
+          be taken after successfully completing either a calculus course or MATH 110 without 
+          written MACS Department chairperson approval.
+        </p>
+      </li>
+
+      <li>
+        <title>Textbook and course materials</title>
+
+        <p>
+          <ul>
+            <li>  <p>Miller: College Algebra and Trigonometry, 2nd Ed. (McGraw Hill)      </p>          </li>
+            <li> <p> ALEKS 360    (https://www.aleks.com/sign_up)    </p>       </li>
+            <li> <p>  ALEKS Support: https://mhedu.force.com/aleks/s/alekscontactsupport    </p>       </li>
+          </ul>    
+        </p>
+      </li>
+    </dl>
+  </p>
+  </subsection>
+
+
+  <subsection xml:id="sec-assessments">
+    <title>Assessments and Grades</title>
+
+    <paragraphs>
+      <title>Learning Outcomes</title>
+
+      <p>
+        By the end of this course, you should be able to:
+        <ol>
+          <li> 
+            <p> Use graphical and/or analytic methods to 
+              demonstrate an understanding of properties of functions 
+              and operations on functions.
+            </p>
+          </li>
+
+          <li>
+            <p> Apply algebraic, numerical and /or graphical 
+              problem solving techniques to solve polynomial, rational, 
+              exponential, and/or logarithmic equations or inequalities.
+            </p>
+          </li>
+          <li>
+            <p> Construct and interpret mathematical models of real world 
+              situations using polynomial, rational, exponential, and/or 
+              logarithmic functions.              
+            </p>
+          </li>
+        </ol>
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Assessment Categories</title>
+        
+      <tabular>
+        <row> 
+            <cell> <term>Category</term> </cell> <cell> Weight </cell> <cell>  </cell><cell> <term>Grade</term> </cell> <cell>Percentage</cell>
+        </row>
+        <row>
+            <cell> <term>In-Class Activities/Quizzes</term> </cell> <cell> 12% </cell> <cell>   </cell><cell> <term>A</term></cell> <cell>90-100%</cell>
+        </row>      
+        <row>
+            <cell> <term>Weekly Modules (ALEKS) </term> </cell> <cell> 8% </cell> <cell>   </cell><cell> <term>B</term></cell> <cell>80-89% </cell>
+        </row>
+        <row>
+            <cell> <term>Weekly Homework (ALEKS)</term> </cell> <cell> 8% </cell> <cell>   </cell><cell> <term>C</term></cell> <cell>70-79%</cell>
+        </row>
+                <row>
+            <cell> <term> Bi-Weekly Quizzes (ALEKS)</term> </cell> <cell> 7% </cell> <cell>   </cell><cell><term>D</term> </cell> <cell>55-69%</cell>
+        </row>
+        <row>
+            <cell> <term>3 Midterm Exams</term> </cell> <cell> 45% </cell> <cell>   </cell><cell> <term>F</term></cell> <cell>below 55%</cell>
+        </row> 
+        <row>
+            <cell> <term>Final Exam</term> </cell> <cell> 20% </cell> <cell>   </cell><cell> </cell> <cell></cell>
+        </row>
+      </tabular>
+    </paragraphs>
+    
+    <paragraphs>
+      <title>Course Information</title>
+      <ul>
+        <li><term>ALEKS</term> ALEKS is a Web-based, artificially intelligent assessment and learning system that uses adaptive questioning to quickly and accurately determine exactly what a student knows, and doesn't know, in a course.  
+          ALEKS then instructs the student on the topics he or she is most ready to learn. 
+          <ul>
+            <li>
+              <p> <alert>Initial Knowledge Check:</alert> Must complete first before you can access other contents in the 
+               course. This will help the system to determine your background and adjust the level of 
+               content for you to start and practice. 
+              </p>
+            </li>
+            <li>
+              <p><alert>Prerequisite Review Skills (Adaptive learning mode):</alert> 
+                This module is to review essential mathematics skills for the course.  </p>
+            </li>
+            <li>
+              <p> <alert>Syllabus Quiz:</alert> The syllabus quiz consists of questions from the syllabus. 
+                You must receive 100% to activate all bi-weekly knowledge checks. Three attempts are allowed 
+                initially and the last question needs to be graded manually. Contact the instructor asap if you don’t 
+                reach 100% within 3 attempts.  </p>
+            </li>
+            <li>
+              <p> <alert>Weekly Modules (Adaptive learning mode):</alert> The modules will cover material for each week. 
+                Most are due on Wednesday except the first week. Must obtain at least 60% to activate the homework for that week. </p>
+            </li>
+            <li>
+              <p><alert>Weekly Homework:</alert> To activate the weekly homework, you must obtain at least 60% on the weekly module. 
+                Deadlines of weekly homework are mostly on Saturday. Each question in the weekly homework allows the maximum of 2 attempts and 
+                it must be submitted within 30 minutes after starting it. E-text, examples,  or example explanation are accessible. 
+              </p>
+            </li>
+            <li>
+              <p> <alert>Bi-Week Quizzes:</alert> Quizzes are scheduled every 2 weeks, 
+                which contain accumulated contents from the previous 2 weeks.  
+                It provides regular reviews to prepare for exams. You must receive 100% on the 
+                syllabus quiz to activate all quizzes. Each quiz allows  two attempts within a 3-day period 
+                (Friday-Monday) with a time limitation. 
+                Late submissions are allowed with the daily deduction of 33%.   </p>
+            </li>
+            <li> <p><alert>Three Midterm Exams:</alert>  Exams will be proctored with a maximum of 85 minutes in Stabley 102B. The exams will on Feb. 17, Mar. 24, and Apr. 21.  
+              <ul>
+                <li><p> Section 001: 11:05 AM-12:30 PM         </p>        </li>
+                <li><p> Section 002: 2:15 PM- 3:40 PM    </p>          </li>
+              </ul>
+              If you have time conflict, please contact the instructor during the first week.
+              
+            </p>   </li>
+            <li><p> <alert>Final Exam:</alert> The Final will be proctored with a maximum of 120 minutes.
+              <ul>
+                <li><p> Section 001: 10:20 AM - 12:20 PM on May 5      </p>       </li>
+                <li><p> Section 002: 12:40 PM - 2:40 PM on May 7     </p>   </li>
+              </ul>
+                
+              </p>
+            </li>
+          </ul>
+        </li>
+        <li><p> <term>In-Class Activities:</term>During class periods, we will use various approaches to enhance the understanding of topics for each week. 
+              In-class activities may contain, but not limited to, paper quizzes (individual), discussions, applications,
+              and games. Make-ups are allowed for individual activities if they are done before the following class. 
+              Make-ups are not allowed for group activities.      </p>
+        </li>
+        <li> <p><term>Course Structure:</term>
+                This will not be a traditional lecture style class.  You will spend your class time learning 
+                in various approaches.  In general, you should expect
+                <ul>
+                  <li>  <p> 	On Tuesday, you may spend some time work through ALEKS to finish up the weekly 
+                    module, or we may have short lectures or class activities to learn difficult topics in the module.           
+                    </p>
+                  </li>
+                  <li>
+                    <p>On Thursday, you will be in a regular classroom and we will review and practice topics that you and other students find challenged, then we will wrap up the topics for that week by working on 
+                      additional problems, particularly word problems.                      
+                    </p>
+                  </li>
+                  <li><p>	Individual or group work may be collected for grading as In-class activities on either days. You can make up individual 
+                      activities before the following class. Make-ups for group activities are not allowed.
+                      
+                    </p>
+                  </li>
+                </ul>
+              </p>
+          </li>
+          <li>
+            <p><term>D2L:</term> Course syllabus and schedule will be posted on D2L under “Content”.   Overall grade for each category will also be posted on D2L. 
+               Keep eyes on the announcements and your IUP email.    </p>    </li>
+      </ul>        
+
+    </paragraphs>
+    <paragraphs>
+      <title>Expectations</title>
+      <ul>
+        <li>
+          <p>You are expected to be in class every day that it is scheduled, and you will be expected to use this time to work on only the course material.  
+            You will also be required to spend additional time outside of class to complete assignments.           
+          </p>
+        </li>
+        <li>
+          <p>You will need a notebook.  Problems should be done on paper, and the answers then entered in ALEKS; a neat notebook, complete with date and problem headings,
+             will help you a great deal when it is time to study for exams or seek helps. 
+          </p>
+        </li>
+        <li>
+          <p>IUP photo identification will be required for each of 3 midterm exams and the final.           
+          </p>
+        </li>
+        <li>
+          <p>Cell phones should not be used/visible during class time.  Please take care of any personal business outside of class time.  
+            Visible devices during exams will be considered a violation of IUP’s academic integrity policy.            
+          </p>
+        </li>
+        <li>
+          <p>You must contact the instructor (via email: yjkuo@iup.edu) within 24 hours of 
+            missing an exam and be prepared to provide documentation. 
+            Makeups are given at the discretion of the instructor and only in the case of verified medical 
+            r other documented emergencies.
+
+
+            
+          </p>
+        </li>
+      </ul>
+      
+    </paragraphs>
+
+
+  </subsection>
+
+
+
+  <!-- Since some parts of the syllabus are used in multiple courses, the following are included as separate files that can easily be copied elsehwere. -->
+  <xi:include href="./subsec-schedule.ptx" />
+
+  <xi:include href="./subsec-dates.ptx" />
+  
+  <xi:include href="./subsec-policies.ptx" />
+
+
+</section>
