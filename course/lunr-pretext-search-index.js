@@ -37,130 +37,22 @@ var ptx_lunr_docs = [
   "body": "D2L: "
 },
 {
-  "id": "week1-handout",
+  "id": "handouts",
   "level": "1",
-  "url": "week1-handout.html",
-  "type": "Worksheet",
+  "url": "handouts.html",
+  "type": "Chapter",
   "number": "",
-  "title": "Week 1 Handout- Introduction to MATH 342 and Laplace Transform",
-  "body": " Week 1 Handout- Introduction to MATH 342 and Laplace Transform   This is an outline of the topics we covered in the first week of class. You should have Jupyter Notebook , MATHEMATICA , and Octave ready before the 2nd week for practicing and doing assignments.     Overview   Investigating high dimensional systems using vector analysis  Constructing complicated functions using series expansion  Modeling and studying natural phenomena via partial differential equations (PDE)  Solving PDEs algebraically and numerically  Utilizing appropriate software packages ( Jupyter Notebook , MATHEMATICA , Octave ) for suitable tasks    Why do we need models?   All models are wrong. Some are useful.    Steps to create models:   Observing and recording the system  Describe how the system behaves (verbally and mathematically)-create a model  Verify whether that model behaves similar (or close enough) to what you observe. If not, modify it.  Investigate\/Study the system under different conditions using the model     COMAP    Laplace Transform: Definitions, Theorems, Examples, MATHEMATICA      If is a function defined for , then the integral is the Laplace transform of provided the integral converges.  Sufficient conditions for existence:    must be piecewise continuous on     must be of exponential order for          A function is said to be exponential order if there exists constants and such that       is a linear transform, i.e.,         Evaluate     Evaluate where   Graph of a piecewise function   The graph of a piecewise function with two horizontal segments. From t equals 0 to t equals 3, the graph is on the t-axis at y equals 0, ending with an open circle at (3, 0). For t greater than or equal to 3, the graph is a horizontal line at y equals 2, starting with a closed circle at (3, 2).             If represents the Laplace transform of a function then is the inverse Laplace transform of     is a linear transform,                                        Use Theorem to find each of the followings:                Find      Conceptually, the original DE is transformed to another equation in a different space. Ideally, this new equation is easier to solve in the new space. Finally, the solution in the new space is transformed back to the original space using the inverse transformation.   Steps in solving an IVP by the Laplace transform      There are many other transformations and each one is considering a different space, which also means each one is more suitable for solving some particular types of DEs. This is a typical issue for most of algebraic approaches for solving ODEs or PDEs.     Suppose are continuous on , is piecewise continuous on and are of exponential order with as specified in . Then for  where      Use the Laplace transform to solve the IVP    MATHEMATICA     You should be familiar with using MATHEMATICA to verify your algebraic work.     LaplaceTransform[f(t),t,s]   Find using MATHEMATICA.  LaplaceTransform[Cos[4*t - 5], t, s]     InverseLaplaceTransform[F[s],s,t]  Find using MATHEMATICA.  InverseLaplaceTransform[((5*s-1)\/(s^2+7), s, t]        "
+  "title": "Handouts",
+  "body": " Handouts     "
 },
 {
-  "id": "def-laplace",
-  "level": "2",
-  "url": "week1-handout.html#def-laplace",
-  "type": "Definition",
-  "number": "1",
-  "title": "",
-  "body": "  If is a function defined for , then the integral is the Laplace transform of provided the integral converges.  Sufficient conditions for existence:    must be piecewise continuous on     must be of exponential order for       "
-},
-{
-  "id": "def-exponential-order",
-  "level": "2",
-  "url": "week1-handout.html#def-exponential-order",
-  "type": "Definition",
-  "number": "2",
-  "title": "",
-  "body": "  A function is said to be exponential order if there exists constants and such that    "
-},
-{
-  "id": "week1-handout-6",
-  "level": "2",
-  "url": "week1-handout.html#week1-handout-6",
-  "type": "Remark",
-  "number": "3",
-  "title": "",
-  "body": "  is a linear transform, i.e.,   "
-},
-{
-  "id": "week1-handout-7",
-  "level": "2",
-  "url": "week1-handout.html#week1-handout-7",
-  "type": "Example",
-  "number": "4",
-  "title": "",
-  "body": "     Evaluate     Evaluate where   Graph of a piecewise function   The graph of a piecewise function with two horizontal segments. From t equals 0 to t equals 3, the graph is on the t-axis at y equals 0, ending with an open circle at (3, 0). For t greater than or equal to 3, the graph is a horizontal line at y equals 2, starting with a closed circle at (3, 2).          "
-},
-{
-  "id": "def-laplace-inverse",
-  "level": "2",
-  "url": "week1-handout.html#def-laplace-inverse",
-  "type": "Definition",
-  "number": "6",
-  "title": "",
-  "body": "  If represents the Laplace transform of a function then is the inverse Laplace transform of     is a linear transform,    "
-},
-{
-  "id": "thm-laplace-inverse",
-  "level": "2",
-  "url": "week1-handout.html#thm-laplace-inverse",
-  "type": "Theorem",
-  "number": "7",
-  "title": "",
-  "body": "                                 "
-},
-{
-  "id": "week1-handout-10",
-  "level": "2",
-  "url": "week1-handout.html#week1-handout-10",
-  "type": "Example",
-  "number": "8",
-  "title": "",
-  "body": " Use Theorem to find each of the followings:             "
-},
-{
-  "id": "week1-handout-11",
-  "level": "2",
-  "url": "week1-handout.html#week1-handout-11",
-  "type": "Example",
-  "number": "9",
-  "title": "",
-  "body": "  Find    "
-},
-{
-  "id": "week1-handout-12",
-  "level": "2",
-  "url": "week1-handout.html#week1-handout-12",
-  "type": "Remark",
-  "number": "10",
-  "title": "",
-  "body": " Conceptually, the original DE is transformed to another equation in a different space. Ideally, this new equation is easier to solve in the new space. Finally, the solution in the new space is transformed back to the original space using the inverse transformation.   Steps in solving an IVP by the Laplace transform      There are many other transformations and each one is considering a different space, which also means each one is more suitable for solving some particular types of DEs. This is a typical issue for most of algebraic approaches for solving ODEs or PDEs.  "
-},
-{
-  "id": "thm-laplace-properties",
-  "level": "2",
-  "url": "week1-handout.html#thm-laplace-properties",
-  "type": "Theorem",
-  "number": "12",
-  "title": "",
-  "body": "  Suppose are continuous on , is piecewise continuous on and are of exponential order with as specified in . Then for  where    "
-},
-{
-  "id": "week1-handout-14",
-  "level": "2",
-  "url": "week1-handout.html#week1-handout-14",
-  "type": "Example",
-  "number": "13",
-  "title": "",
-  "body": " Use the Laplace transform to solve the IVP   "
-},
-{
-  "id": "week1-handout-15",
-  "level": "2",
-  "url": "week1-handout.html#week1-handout-15",
-  "type": "Remark",
-  "number": "14",
-  "title": "<em class=\"alert\">MATHEMATICA<\/em>.",
-  "body": "MATHEMATICA     You should be familiar with using MATHEMATICA to verify your algebraic work.     LaplaceTransform[f(t),t,s]   Find using MATHEMATICA.  LaplaceTransform[Cos[4*t - 5], t, s]     InverseLaplaceTransform[F[s],s,t]  Find using MATHEMATICA.  InverseLaplaceTransform[((5*s-1)\/(s^2+7), s, t]       "
-},
-{
-  "id": "hw1",
+  "id": "homework",
   "level": "1",
-  "url": "hw1.html",
-  "type": "Worksheet",
+  "url": "homework.html",
+  "type": "Chapter",
   "number": "",
-  "title": "Homework 1",
-  "body": " Homework 1    Instructions: Complete all the parts below on a separate page . Submit your work by uploading a single PDF to D2L. This can either be a scan of handwritten solutions or a PDF you created by first typing your solutions. Your work must clearly label which definition, remark, theorem and\/or which part of theorem in Week 1 Handout is used for each step.      Deteremine whether each of the following functions is of exponential order. If it is, find minimum c and minimum T. If it is not, justify your answer.                Find the Laplace transform of each of the following functions if it exists. Provide a brief justification if it doesn't exist. You must also include Mathematica code for verifying your answers.                     Find the given inverse transform. You must also include Mathematica code for verifying your answers.                     Solve each of IVPs using the Laplace transform and its inverses.                "
+  "title": "Homework",
+  "body": " Homework    "
 }
 ]
 
