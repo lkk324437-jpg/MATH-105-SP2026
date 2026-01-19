@@ -30,14 +30,14 @@
 
       <!-- Remove or comment out the sample and replace with your own handouts -->
       <!-- You can also comment out the entire chapter on Handouts until you are ready to include them -->
-      <xi:include href="./handouts/week1-handout.ptx"/>
+      <!-- <xi:include href="./handouts/week1-handout.ptx"/> -->
     </chapter>
 
     <chapter xml:id="homework">
       <title>Homework</title>
 
       <!-- Remove or comment out the sample and replace with your own homework -->
-      <xi:include href="./homework/homework1.ptx"/>
+      <!-- <xi:include href="./homework/homework1.ptx"/> -->
 
     </chapter>
 
